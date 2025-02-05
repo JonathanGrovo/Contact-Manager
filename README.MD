@@ -45,6 +45,6 @@ To set up the project locally:
 - **Delete Contact**: Remove a contact from your list.
 - **Search Contacts**: Use the search bar to filter contacts by any field.
 
-##License
+## License
 
 This project is provided as-is without any warranty. Feel free to modify and distribute as needed.
