@@ -45,18 +45,6 @@ To set up the project locally:
 - **Delete Contact**: Remove a contact from your list.
 - **Search Contacts**: Use the search bar to filter contacts by any field.
 
-## Contributing
+##License
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Thanks to the open-source community for their invaluable resources and support.
-
----
-
-*Note: This README is based on the information available in the repository as of February 4, 2025.* 
+This project is provided as-is without any warranty. Feel free to modify and distribute as needed.
